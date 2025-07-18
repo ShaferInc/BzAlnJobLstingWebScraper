@@ -3,3 +3,4 @@ logs/
 *.csv
 *.log
 *.tmp
+__init__.py/
